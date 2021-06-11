@@ -1,4 +1,0 @@
-actions-test:
-  image:
-    repository: docker.pkg.github.com/firecyberice/actions-test/actions-test
-    tag: ca258d50
