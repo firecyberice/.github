@@ -1,5 +1,5 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
+    "name": "Trigger workflow",
+    "description": "Triggers a deployment to k8s by dispatching the image tag to the k8s config repo",
     "iconName": "example-icon"
 }
