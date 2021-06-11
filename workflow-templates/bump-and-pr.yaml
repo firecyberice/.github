@@ -1,4 +1,4 @@
-name: 2 Bump image tag and create PR
+name: Bump image tag and create PR
 
 on:
   repository_dispatch:
