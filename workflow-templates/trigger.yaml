@@ -1,7 +1,7 @@
-name: 1 Deploy to Staging
+name: Deploy to Staging
 on:
   push:
-    branches: [main]
+    branches: [$default-branch]
 
 jobs:
   trigger:
