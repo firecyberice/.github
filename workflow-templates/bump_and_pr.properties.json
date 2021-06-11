@@ -1,0 +1,5 @@
+{
+    "name": "update image tag for k8s config",
+    "description": "Update the image tag in the helm-chart values.yaml",
+    "iconName": "example-icon"
+}
