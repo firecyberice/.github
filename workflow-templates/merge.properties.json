@@ -1,0 +1,5 @@
+{
+    "name": "Autoapprove and Automerge",
+    "description": "Autoapprove and automerge deploy to k8s PRs",
+    "iconName": "example-icon"
+}
